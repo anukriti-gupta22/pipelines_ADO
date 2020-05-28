@@ -7,7 +7,7 @@
 resources:
  pipelines:
      - pipeline: my_pipeline
-       source: anukritigupta1234.hello-world
+       source: P2
        project: t1
        trigger: true
 
